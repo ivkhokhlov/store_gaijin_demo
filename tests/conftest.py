@@ -1,12 +1,14 @@
 import pytest
 from selene import browser
 
+
 @pytest.fixture(scope='session', autouse=True)
 def browser_management():
     browser.config.driver_name = 'chrome'
     browser.config.base_url = 'https://store.gaijin.net/'
     yield
     browser.quit()
+
 
 @pytest.fixture(scope='session')
 def user(browser_management):
