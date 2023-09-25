@@ -50,7 +50,11 @@ python -m pytest
 ## Отчеты
 
 ### Allure-отчет
-tbd
+Доступен по [ссылке](https://jenkins.autotests.cloud/job/C07-master_klinka-store_gaijin_demo/16/allure/)
+![image](https://github.com/ivkhokhlov/store_gaijin_demo/assets/58159018/82f540bf-cd90-49cc-b218-292c346a77a3)
+![image](https://github.com/ivkhokhlov/store_gaijin_demo/assets/58159018/6638c88b-71ee-40cd-a478-c92e8305eda3)
+![image](https://github.com/ivkhokhlov/store_gaijin_demo/assets/58159018/926d7d2e-c4ba-4304-a71a-03fa5d8c5878)
+
 
 ### Пример оповещений в Telegram
 ![image](https://github.com/ivkhokhlov/store_gaijin_demo/assets/58159018/167cd8d9-a7c0-45ef-9118-abe0579dc69e)
