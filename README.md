@@ -35,7 +35,7 @@ SELENE_PASSWORD = 1234
 ```
 python -m pytest
 ```
-## Удаленный запуск проекта в Jenkins
+### Удаленный запуск проекта в Jenkins
 Проект доступен по [ссылке](https://jenkins.autotests.cloud/job/C07-master_klinka-store_gaijin_demo/), сборка и просмотр отчетов доступна для неавторизованных пользователей.
 1. Открыть проект в Jenkins
 2. Нажать "Собрать с параметрами"
@@ -46,7 +46,9 @@ python -m pytest
 
 4. После успешной сборки, Allure-отчет с результатами будет доступен в истории сборок
 <details><summary>screenshot</summary><img src=https://github.com/ivkhokhlov/store_gaijin_demo/assets/58159018/8a3e48cf-a4fd-4a82-bc6c-c41b0213d6e3></details>
-
+## Отчеты
+### Allure-отчет
+tbd
 ### Пример оповещений в Telegram
 ![image](https://github.com/ivkhokhlov/store_gaijin_demo/assets/58159018/167cd8d9-a7c0-45ef-9118-abe0579dc69e)
 ### Видео запуска теста
