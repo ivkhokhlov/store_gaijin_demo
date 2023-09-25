@@ -2,3 +2,4 @@ venv
 .idea
 tests/.pytest_cache
 allure-report
+model/__pycache__
