@@ -5,15 +5,15 @@
 ![image](https://github.com/ivkhokhlov/store_gaijin_demo/assets/58159018/a8f6b440-0997-4417-b731-723c90e20cf8)
 
 ## Стек технологий
-<code><img width="5%" title="Python" src="design/icons/python.png"></code>
-<code><img width="5%" title="Pytest" src="design/icons/pytest.png"></code>
-<code><img width="5%" title="Selene" src="design/icons/selene.png"></code>
-<code><img width="5%" title="Selenium" src="design/icons/selenium.png"></code>
-<code><img width="5%" title="Pydantic" src="design/icons/pydantic.png"></code>
-<code><img width="5%" title="Selenoid" src="design/icons/selenoid.png"></code>
-<code><img width="5%" title="Jenkins" src="design/icons/jenkins.png"></code>
-<code><img width="5%" title="Allure-report" src="design/icons/allure_report.png"></code>
-<code><img width="5%" title="Telegram" src="design/icons/tg.png"></code>
+<code><img width="5%" title="Python" src="assets/python.png"></code>
+<code><img width="5%" title="Pytest" src="assets/pytest.png"></code>
+<code><img width="5%" title="Selene" src="assets/selene.png"></code>
+<code><img width="5%" title="Selenium" src="assets/selenium.png"></code>
+<code><img width="5%" title="Pydantic" src="assets/pydantic.png"></code>
+<code><img width="5%" title="Selenoid" src="assets/selenoid.png"></code>
+<code><img width="5%" title="Jenkins" src="assets/jenkins.png"></code>
+<code><img width="5%" title="Allure-report" src="assets/allure_report.png"></code>
+<code><img width="5%" title="Telegram" src="assets/tg.png"></code>
 
 ## Запуск тестов
 ### Запуск тестов локально
