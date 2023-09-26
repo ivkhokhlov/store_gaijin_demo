@@ -1,8 +1,19 @@
 # Демонстрационный проект для портала store.gaijin.net
 ![image](https://github.com/ivkhokhlov/store_gaijin_demo/assets/58159018/33fb6e7d-7d8d-482c-a12b-0285b40e9881)
-
+## Описание
 Демо-проект для страницы настроек профиля пользователя.
 ![image](https://github.com/ivkhokhlov/store_gaijin_demo/assets/58159018/a8f6b440-0997-4417-b731-723c90e20cf8)
+
+## Стек технологий
+<code><img width="5%" title="Python" src="design/icons/python.png"></code>
+<code><img width="5%" title="Pytest" src="design/icons/pytest.png"></code>
+<code><img width="5%" title="Selene" src="design/icons/selene.png"></code>
+<code><img width="5%" title="Selenium" src="design/icons/selenium.png"></code>
+<code><img width="5%" title="Pydantic" src="design/icons/pydantic.png"></code>
+<code><img width="5%" title="Selenoid" src="design/icons/selenoid.png"></code>
+<code><img width="5%" title="Jenkins" src="design/icons/jenkins.png"></code>
+<code><img width="5%" title="Allure-report" src="design/icons/allure_report.png"></code>
+<code><img width="5%" title="Telegram" src="design/icons/tg.png"></code>
 
 ## Запуск тестов
 ### Запуск тестов локально
