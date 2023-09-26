@@ -1,0 +1,1 @@
+{"name": "Никнейм одинаковый в хедере и на странице", "status": "skipped", "start": 1695651534811, "stop": 1695651534811, "uuid": "eb05d8b1-730d-41a7-ae9f-7a68cbe03436", "testCaseId": "233e02a20e950884d3569cb350f43d09", "fullName": "tests.test_profile_settings#test_header_nick_contains_on_page"}
