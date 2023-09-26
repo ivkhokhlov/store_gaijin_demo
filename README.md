@@ -9,10 +9,8 @@
 <code><img width="5%" title="Pytest" src="assets/pytest.png"></code>
 <code><img width="5%" title="Selene" src="assets/selene.png"></code>
 <code><img width="5%" title="Selenium" src="assets/selenium.png"></code>
-<code><img width="5%" title="Pydantic" src="assets/pydantic.png"></code>
 <code><img width="5%" title="Selenoid" src="assets/selenoid.png"></code>
 <code><img width="5%" title="Jenkins" src="assets/jenkins.png"></code>
-<code><img width="5%" title="Allure-report" src="assets/allure_report.png"></code>
 <code><img width="5%" title="Telegram" src="assets/tg.png"></code>
 
 ## Запуск тестов
